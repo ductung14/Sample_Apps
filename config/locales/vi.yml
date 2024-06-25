@@ -13,6 +13,7 @@ vi:
     author: "Michael Hartl"
     the: "Của"
     by: "bởi"
+    book_title: "Hướng dẫn Ruby on Rails"
   contact:
     title: "Liên hệ"
     content: "Liên hệ với Hướng dẫn Ruby on Rails về ứng dụng mẫu tại"
@@ -36,6 +37,9 @@ vi:
     book_title: "Hướng dẫn Ruby on Rails"
     link_signup: "Đăng ký ngay!"
     sample_app: "ứng dụng mẫu."
+    greeting: "Chào mừng đến với Ứng dụng Mẫu!"
+    notify: "Không tìm thấy người dùng"
+    error: "Tạo tài khoản không thành công"
   help:
     title: "Trợ giúp"
     page: "Trang Trợ giúp Hướng dẫn Rails"
@@ -45,3 +49,10 @@ vi:
   new:
     title: "Đăng ký"
     content: "Đây sẽ là trang đăng ký cho người dùng mới."
+    create: "Tạo tài khoản của tôi"
+    confirmation: "Xác nhận"
+    name: "Tên"
+    email: "Email"
+    password: "Mật khẩu"
+  error:
+    notify: "Biểu mẫu chứa"
