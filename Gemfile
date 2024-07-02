@@ -24,6 +24,7 @@ gem "faker", "2.21.0"
 gem "pagy"
 gem "mailtrap"
 gem "figaro"
+gem "active_storage_validations", "0.9.8"
 
 group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
@@ -31,6 +32,12 @@ end
 
 group :development do
   gem "web-console"
+  gem "pry"
+end
+
+group :production do
+  gem "pg", "1.3.5"
+  gem "aws-sdk-s3", "1.114.0", require: false
 end
 
 group :test do

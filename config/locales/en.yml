@@ -44,6 +44,7 @@ en:
     book_title: "Ruby on Rails Tutorial"
     link_signup: "Sign up now!"
     sample_app: "sample application."
+    micropost: "Micropost Feed"
   help:
     title: "Help"
     page: "Rails Tutorial Help page"
@@ -115,4 +116,28 @@ en:
     button: "Update password"
   page_reset:
     title: "Forgot password"
-    button: "Submit"
+    button: "Send"
+    title: "Sample application"
+    action: "Welcome to the Sample App! Click the link below to activate your account:"
+    activate: "Activate"
+  controller:
+    dranger: "Please log in."
+  micropost:
+    success: "Micropost created!"
+    success1: "Micropost deleted"
+    post: "Posted"
+    ago: "ago."
+    delete: "delete"
+    user: "view my profile"
+    micropost: "micropost"
+    content: "Compose new micropost..."
+    action: "Post"
+    yousure: "You sure?"
+    alert: "Maximum file size is 5MB. Please choose a smaller file."
+    mess: "must be a valid image format"
+    mess1: "should be less than 5MB"
+    title: "Microposts"
+    error: "Delete not success"
+    error1: "Micropost not found"
+  share:
+    error: "The form contains"
