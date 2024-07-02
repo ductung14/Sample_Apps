@@ -60,3 +60,4 @@ en:
     link_signup: "Sign up now!"
     newuser: "New user?"
     error: "Invalid email/password combination"
+    request: "Remember me on this computer"
