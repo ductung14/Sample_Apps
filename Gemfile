@@ -20,6 +20,8 @@ gem "bootstrap-sass"
 gem "i18n"
 gem "config"
 gem "jquery-rails"
+gem "faker", "2.21.0"
+gem "pagy"
 
 group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
