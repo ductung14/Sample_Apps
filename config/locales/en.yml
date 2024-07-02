@@ -11,6 +11,7 @@ en:
     link_contact: "Contact"
     link_new: "News"
     author: "Michael Hartl"
+    book_title: "Ruby on Rails Tutorial"
     the: "The"
     by : "by"
   contact:
@@ -36,6 +37,9 @@ en:
     book_title: "Ruby on Rails Tutorial"
     link_signup: "Sign up now!"
     sample_app: "sample application."
+    greeting: "Welcome to the Sample App!"
+    notify: "User not found"
+    error: "Account creation failed"
   help:
     title: "Help"
     page: "Rails Tutorial Help page"
@@ -45,3 +49,10 @@ en:
   new:
     title: "Sign up"
     content: "This will be a signup page for new users."
+    create: "Create my account"
+    confirmation: "Confirmation"
+    name: "Name"
+    email: "Email"
+    password: "Password"
+  error:
+    notify: "The form contains"
