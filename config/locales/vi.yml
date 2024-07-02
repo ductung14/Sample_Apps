@@ -64,6 +64,8 @@ vi:
     error: "Kết hợp email/mật khẩu không hợp lệ"
     request: "Hãy nhớ tôi trên máy tính này"
     mess: "Tài khoản chưa được kích hoạt. Kiểm tra email của bạn để lấy liên kết kích hoạt."
+    confir_pass: "Xác nhận"
+    forgot_pass: "(quên mật khẩu)"
   edit:
     title: "Chỉnh sửa người dùng"
     button: "Lưu thay đổi"
