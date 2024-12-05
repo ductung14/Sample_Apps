@@ -6,6 +6,13 @@ vi:
     link_home: "Trang chủ"
     link_help: "Trợ giúp"
     link_login: "Đăng nhập"
+    link_profile: "Hồ sơ" 
+    link_setting: "Cài đặt"   
+    link_logout: "Đăng xuất"
+    link_account: "Tài khoản"
+    link_user: "Người dùng"
+    link_sample: "Ứng dụng mẫu"
+    toggle: "Chuyển đổi điều hướng thành"
   footer:
     link_about: "Giới thiệu"
     link_contact: "Liên hệ"
@@ -45,3 +52,53 @@ vi:
   new:
     title: "Đăng ký"
     content: "Đây sẽ là trang đăng ký cho người dùng mới."
+    button: "Tạo tài khoản của tôi"
+  session:
+    title: "Đăng nhập"
+    email: "Email"
+    name: "Tên"
+    confir_password: "Xác nhận mật khẩu"
+    password: "Mật khẩu"
+    link_signup: "Đăng ký ngay!"
+    newuser: "Người dùng mới?"
+    error: "Kết hợp email/mật khẩu không hợp lệ"
+    request: "Hãy nhớ tôi trên máy tính này"
+    mess: "Tài khoản chưa được kích hoạt. Kiểm tra email của bạn để lấy liên kết kích hoạt."
+  edit:
+    title: "Chỉnh sửa người dùng"
+    button: "Lưu thay đổi"
+    change: "Thay đổi"
+    content: "Cập nhật hồ sơ của bạn"
+  login:
+    notify: "Vui lòng đăng nhập."
+  user:
+    notify1: "Hồ sơ đã được cập nhật"
+    notify2: "Người dùng đã được xóa"
+    question: "Bạn chắc chắn?"
+    action: "Xoá"
+    notify: "Không tìm thấy người dùng"
+    error: "Cập nhật thất bại"
+    error1: "Xóa người dùng không thành công"
+    info: "Vui lòng kiểm tra email của bạn để kích hoạt tài khoản của bạn."
+  error:
+    notify: "Biểu mẫu chứa"
+  index:
+    title: "Tất cả người dùng"
+    account:
+    notify: "Tài khoản đã được kích hoạt!"
+    dranger: "Liên kết kích hoạt không hợp lệ"
+    title: "Ứng dụng mẫu"
+    hi: "Xin chào"
+    action: "Chào mừng bạn đến với ứng dụng mẫu! Nhấp vào liên kết bên dưới để kích hoạt tài khoản của bạn:"
+    activate: "Kích hoạt"
+  mailer:
+    subject: "Kích hoạt tài khoản"
+    hi: "Xin chào"
+  password:
+    title: "User#password_reset"
+    content: "Tìm tôi trong app/views/user_mailer/password_reset.html.erb"
+  text:
+    hi: "Xin chào"
+    content: "Chào mừng bạn đến với Ứng dụng Mẫu! Nhấn vào liên kết dưới đây để kích hoạt tài khoản của bạn:"
+    password: "User#password_reset"
+    pass_content: "tìm trong app/views/user_mailer/password_reset.text.erb"

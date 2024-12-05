@@ -12,5 +12,6 @@ module SampleApp
     config.load_defaults 7.0
     
     config.i18n.available_locales = [:en, :vi]
+    Figaro.application.load
   end
 end
